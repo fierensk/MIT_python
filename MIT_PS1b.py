@@ -28,4 +28,3 @@ while current_savings <= down_payment:
     months+=1
 
 print("Number of months:" + str(months))
-
